@@ -14,8 +14,7 @@ instal webpack and webpack-dev-server<br/>
 set path by create webpack.config<br/>
 <br/>
 # problem: 
-<br/>
-<br/>
+
 ![image](https://user-images.githubusercontent.com/15969187/43996997-0c0e1dc0-9d9e-11e8-8464-96a2b9162ae8.png)
 <br/>
 <br/>
@@ -26,7 +25,7 @@ Use follow commend to instal verstion 7.1.1:<br/>
 <br/>
 npm install babel-loader@7.1.1 --save-dev<br/>
 <br/>
-now run the server<br/>
+now run the server
 ![image](https://user-images.githubusercontent.com/15969187/43997109-2a8bd79e-9da1-11e8-80ef-d730c626cfb2.png)
 <br/>
 <br/>
