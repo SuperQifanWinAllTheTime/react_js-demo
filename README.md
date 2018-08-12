@@ -25,7 +25,7 @@ Use follow commend to instal verstion 7.1.1:<br/>
 <br/>
 npm install babel-loader@7.1.1 --save-dev<br/>
 <br/>
-now run the server
+now run the server<br/>
 ![image](https://user-images.githubusercontent.com/15969187/43997109-2a8bd79e-9da1-11e8-80ef-d730c626cfb2.png)
 <br/>
 <br/>
