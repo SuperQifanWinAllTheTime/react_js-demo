@@ -2,16 +2,17 @@
 
 ## Using node and npm(package)
 <br/>
-run npm init:<br/>
+Step 1 : run npm init:<br/>
 Use  npm to generate project information: <br/>
 
 ![image](https://user-images.githubusercontent.com/15969187/43996974-390ac040-9d9d-11e8-8f86-531913ced24b.png)
 <br/>
 <br/>
-Step 2 instal react-dom and react modules<br/>
-Step 3 instal babel<br/>
-Step 4 instal webpack and webpack-dev-server<br/>
-Step 5 set path by create webpack.config<br/>
+Step 2 : instal react-dom and react modules<br/>
+Use npm to instal react-dom and react<br/>
+Step 3 : instal babel<br/>
+Step 4 : instal webpack and webpack-dev-server<br/>
+Step 5 : set path by create webpack.config<br/>
 <br/>
 # Problem: 
 ## Missing webpack
