@@ -34,7 +34,7 @@ the second problem i have is:<br/>
 <br/>
 <br/>
 ### Modul build failed:TyperError: fileSystem.statSync is not a function:<br/>
-after resarch. this problem happen becuase when we install babel . we stall the newest version of babel which does not have fileSystem.statSync fucntion . there fore we need to degrade it to a lower version:<br/>
+after resarch. <br/>this problem happen becuase when i install babel .<br/> i stall the newest version of babel which does not have fileSystem.statSync fucntion . there for i need to degrade it to a lower version:<br/>
 Use follow commend to instal verstion 7.1.1:<br/>
 <br/>
 npm install babel-loader@7.1.1 --save-dev<br/>
