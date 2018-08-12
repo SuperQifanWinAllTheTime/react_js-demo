@@ -1,10 +1,10 @@
 # React JS enveriment configeration
-<br/>
-## using node and npm(package)
+
+## Using node and npm(package)
 <br/>
 run npm init:<br/>
 Use  npm to generate project information: <br/>
-<br/>
+
 ![image](https://user-images.githubusercontent.com/15969187/43996974-390ac040-9d9d-11e8-8f86-531913ced24b.png)
 <br/>
 <br/>
